@@ -1,0 +1,78 @@
+html{
+    font-family: 'Times New Roman', Times, serif;
+    background-color: darksalmon;
+}
+
+h1{
+    text-align: center;
+    width: 100%;
+    height: fit-content;
+    border-bottom: 10px;
+    background-color: grey;
+    border-radius: 30px;
+}
+
+#MeijiImg{
+    width: 70%;
+}
+
+.break{
+    border: 3px;
+    border-style: solid;
+}
+
+#image1{
+    float: right;
+    width: 40%;
+    padding-left: 5%;
+    padding-right: 5%;
+    height: 300px;
+}
+
+#text1{
+    font-size: 24px;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+#image2{
+    float: left;
+    width: 40%;
+    padding-left: 5%;
+    padding-right: 5%;
+    height: 300px;
+}
+
+.subtitle{
+    text-align: center;
+    width: 60%;
+    border-radius: 30px;
+    height: fit-content;
+    background-color: grey;
+}
+
+nav {
+    background-color: #333;
+    height: 50px;
+  }
+  
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+  
+li {
+    display: inline-block;
+    margin-right: 20px;
+}
+  
+a {
+    color: white;
+    text-decoration: none;
+    padding: 15px;
+}
+  
+a:hover {
+    background-color: #555;
+}
